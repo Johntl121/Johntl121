@@ -1,5 +1,5 @@
 ## Hola, soy John 👋
-# Estudiante de Ingeniería de Software en la Universidad Nacional de Ingeniería (UNI), Perú. Apasionado por la programación y el desarrollo de software.
+ Estudiante de Ingeniería de Software en la Universidad Nacional de Ingeniería (UNI), Perú. Apasionado por la programación y el desarrollo de software.
 
 ## 🚀 Tecnologías y Lenguajes
 # Algunos de los lenguajes y tecnologías que me interesan:
