@@ -9,9 +9,9 @@ Algunos de los lenguajes y tecnologías que me interesan:
 - SQL - Para bases de datos y gestión de información
 
 ## 📚 Actualmente aprendiendo
-Arquitectura de software
-Desarrollo ágil de aplicaciones
-Inteligencia artificial y machine learning
+- Arquitectura de software
+- Desarrollo ágil de aplicaciones
+- Inteligencia artificial y machine learning
 
 ## 🔭 Proyectos
 
